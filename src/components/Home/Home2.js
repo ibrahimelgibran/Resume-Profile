@@ -22,19 +22,15 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am intermediate in using classical languages ​​such as
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Java dan Javascript. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My area of ​​interest is building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">WebApp Technologies and Products.</b>
               </i>
               <br />
               <br />
@@ -67,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/ibrahimelgibran"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/ibrahimelgibran"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ibrahimelgibran/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +93,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/elgibran17"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

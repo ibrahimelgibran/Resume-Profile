@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+          <img src={logo} className="img-fluid logo" alt="IEG" />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://ibrahimelgibran.com/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/ibrahimelgibran/Resume-Profile"
                 target="_blank"
                 className="fork-btn-inner"
               >
