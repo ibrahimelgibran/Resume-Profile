@@ -13,8 +13,8 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Sleman.
             <br />
-            Saat ini saya bekerja sebagai software developer di Jogja. Saya
-            telah menyelesaikan WebApp CMS Scholl Smk Muhammadiyah Gamping
+            Currently I work as a software developer in Jogja. I have completed
+            the WebApp CMS Scholl Smk Muhammadiyah Gamping.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
