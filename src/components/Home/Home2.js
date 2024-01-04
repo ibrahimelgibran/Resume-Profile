@@ -30,7 +30,9 @@ function Home2() {
               <br />
               My area of ​​interest is building &nbsp;
               <i>
-                <b className="purple">WebApp Technologies and Products.</b>
+                <b className="purple">
+                  Mobile and WebApp Technologies Products.
+                </b>
               </i>
               <br />
               <br />
